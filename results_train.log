@@ -1,0 +1,14 @@
+Hankel spectrum gap -> r* = 4
+input reference: {'erank': 2.3243249212461885, 'betti': [1, 2, 1], 'dmd_omega': [3.0002468677998695, 3.0002468677998695, 3.745563473832356, 3.745563473832356]}
+none     seed0: tr=0.0000 erank=0.00 R2next=0.957 betti=None |lam|=[] w=[]
+none     seed1: tr=0.0000 erank=1.13 R2next=0.955 betti=[1, 0, 0] |lam|=[0.999 0.999 0.994 0.994] w=[3.112 3.112 4.346 4.346]
+none     seed2: tr=0.0000 erank=1.14 R2next=0.957 betti=None |lam|=[] w=[]
+vicreg   seed0: tr=3.7835 erank=4.87 R2next=0.670 betti=[1, 1, 0] |lam|=[0.999 0.999 0.962 0.962] w=[1.471 1.471 3.026 3.026]
+vicreg   seed1: tr=3.8624 erank=5.04 R2next=0.656 betti=[1, 1, 0] |lam|=[1.    1.    0.963 0.963] w=[1.755 1.755 3.004 3.004]
+vicreg   seed2: tr=3.5155 erank=4.61 R2next=0.702 betti=[1, 2, 1] |lam|=[1. 1. 1. 1.] w=[3.    3.    3.735 3.735]
+koopman  seed0: tr=5.8881 erank=1.00 R2next=0.963 betti=[1, 1, 0] |lam|=[1.    1.    0.908 0.908] w=[3.002 3.002 6.945 6.945]
+koopman  seed1: tr=5.8884 erank=1.00 R2next=0.963 betti=[1, 1, 0] |lam|=[1.    1.    0.908 0.908] w=[3.002 3.002 6.943 6.943]
+koopman  seed2: tr=5.8884 erank=1.00 R2next=0.963 betti=[1, 1, 0] |lam|=[1.    1.    0.908 0.908] w=[3.002 3.002 6.948 6.948]
+koopman_dim seed0: tr=5.3642 erank=3.87 R2next=0.789 betti=[1, 2, 1] |lam|=[1. 1. 1. 1.] w=[3.    3.    3.737 3.737]
+koopman_dim seed1: tr=5.3647 erank=3.92 R2next=0.788 betti=[1, 2, 1] |lam|=[1. 1. 1. 1.] w=[3.    3.    3.737 3.737]
+koopman_dim seed2: tr=5.3627 erank=3.88 R2next=0.788 betti=[1, 2, 1] |lam|=[1. 1. 1. 1.] w=[3.    3.    3.737 3.737]
